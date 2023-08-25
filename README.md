@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm anuj paroha</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="code" width="400" scr="![image](https://github.com/anujparoha/anujparoha/assets/109169449/d3152a2f-5349-4bbe-a785-13eb9f97b2e6)"
+ >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-paroha-978b9b221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-paroha-978b9b221" height="30" width="40" /></a>
